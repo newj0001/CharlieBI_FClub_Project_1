@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CharlieBI_FClub_Project", "CharlieBI_FClub_Project\CharlieBI_FClub_Project.dtproj", "{8D7FCCEA-EA7F-402E-9A4B-8EECC19559CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7FCCEA-EA7F-402E-9A4B-8EECC19559CC}.Development|Default.ActiveCfg = Development
+		{8D7FCCEA-EA7F-402E-9A4B-8EECC19559CC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE996A3-686A-4906-B0A4-47350E95F71B}
+	EndGlobalSection
+EndGlobal
